@@ -1,5 +1,5 @@
 # python_reverseshell
-*This is for educational purpose only*
+*For Educational purpose only, I hold no responsibilites as to however you use it.
 
 Getting someone shell and control it remotely.
 
